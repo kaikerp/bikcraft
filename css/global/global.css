@@ -19,6 +19,7 @@ dd {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -29,4 +30,8 @@ ul {
 a {
   color: inherit;
   text-decoration: none;
+}
+
+button {
+  border: none;
 }
