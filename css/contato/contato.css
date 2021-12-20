@@ -20,6 +20,7 @@
 }
 
 .contato-dados {
+  background-color: var(--cor-12);
   border-radius: 5px 0 0 5px;
 }
 

@@ -43,6 +43,14 @@
   color: var(--cor-p1);
 }
 
+.header-menu a:hover:after,
+.header-menu a.ativo::after,
+.header-menu a.ativo {
+  width: 65%;
+  transition: ease-in-out 0.3s;
+  color: var(--cor-p1);
+}
+
 .header-menu a:hover {
   transition: ease-in-out 0.5s;
   color: var(--cor-p1);

@@ -9,6 +9,7 @@
 @import "./utilidades/componentes.css";
 @import "./utilidades/cores.css";
 @import "./utilidades/formulario.css";
+@import "./utilidades/animacao.css";
 @import "./bicicleta/bicicleta.css";
 @import "./bicicleta/seguro.css";
 @import "./bicicletas/bicicletas-lista.css";
